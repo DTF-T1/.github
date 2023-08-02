@@ -7,12 +7,34 @@
 
 <br/>
 
+## 👨‍👨‍👦‍👦👩‍👩‍👦 Member
+<div align="center">
+  
+| <a href="https://github.com/habibi03336"><img src="https://avatars.githubusercontent.com/u/88388295?v=4" width="100"/><p>haji</p></a> | <a href="https://github.com/hwiwonK"><img src="https://avatars.githubusercontent.com/u/67336936?v=4" width="100" /><p>Hwiwon KIM</p></a> | <a href="https://github.com/Moonchaeyeon"><img src="https://avatars.githubusercontent.com/u/49464171?v=4" width="100"/><p>Moon Chaeyeon</p></a> | <a href="https://github.com/pjs0418"><img src="https://avatars.githubusercontent.com/u/33286894?v=4" width="100" /><p>pjs0418</p></a> |
+|--|--|--|--|
+| <a href="https://github.com/shinjbin"><img src="https://avatars.githubusercontent.com/u/96367296?v=4" width="100"/><p align="center"><b>Shin, Jeongbin</b></p></a> | <a href="https://github.com/tjwjdgus12"><img src="https://avatars.githubusercontent.com/u/29909359?v=4" width="100" /><p align="center"><b>jung</b></p></a> | <a href="https://github.com/yeongchan1228"><img src="https://avatars.githubusercontent.com/u/79392304?v=4" width="100"/><p align="center"><b>YC</b></p></a> |  |
+
+</div>
+
+<br/>
+
 ## 🪲 Algorithm
 <div>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
 </div>
+
+<br/>
+<br/>
+
+## 🖥️ CS
+- 개발상식
+- 자료구조
+- 네트워크
+- 운영체제
+- 데이터베이스
+- 디자인패턴
 
 <br/>
 <br/>
@@ -75,13 +97,4 @@
 
 <br>
 <br>
-
-## 👨‍👨‍👦‍👦👩‍👩‍👦 Member
-<div align="center">
-  
-| <a href="https://github.com/habibi03336"><img src="https://avatars.githubusercontent.com/u/88388295?v=4" width="100"/><p>haji</p></a> | <a href="https://github.com/hwiwonK"><img src="https://avatars.githubusercontent.com/u/67336936?v=4" width="100" /><p>Hwiwon KIM</p></a> | <a href="https://github.com/Moonchaeyeon"><img src="https://avatars.githubusercontent.com/u/49464171?v=4" width="100"/><p>Moon Chaeyeon</p></a> | <a href="https://github.com/pjs0418"><img src="https://avatars.githubusercontent.com/u/33286894?v=4" width="100" /><p>pjs0418</p></a> |
-|--|--|--|--|
-| <a href="https://github.com/shinjbin"><img src="https://avatars.githubusercontent.com/u/96367296?v=4" width="100"/><p align="center"><b>Shin, Jeongbin</b></p></a> | <a href="https://github.com/tjwjdgus12"><img src="https://avatars.githubusercontent.com/u/29909359?v=4" width="100" /><p align="center"><b>jung</b></p></a> | <a href="https://github.com/yeongchan1228"><img src="https://avatars.githubusercontent.com/u/79392304?v=4" width="100"/><p align="center"><b>YC</b></p></a> |  |
-
-</div>
 
